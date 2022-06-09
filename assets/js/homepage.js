@@ -29,4 +29,8 @@ var formSubmitHandler = function () {
   console.log(event);
 };
 
+<<<<<<< HEAD
 userFormEl.addEventListener("submit", formSubmitHandler);
+=======
+userFormEl.addEventListener("submit", formSubmitHandler);
+>>>>>>> dca4654496898d3338798776cde29b4e8ded9cde
